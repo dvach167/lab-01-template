@@ -1,0 +1,14 @@
+{
+    "tests": [
+      {
+        "name": "Any change made",
+        "setup": "",
+        "run": "bash .github/classroom/check_changes.sh",
+        "input": "",
+        "output": "",
+        "comparison": "included",
+        "timeout": 10,
+        "points": 1
+      }
+    ]
+  }

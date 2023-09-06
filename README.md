@@ -1,5 +1,7 @@
 # Intro to Git and GitHub
 
+This lab is due Sept 21
+
 ## Introduction
 In this course, you will be using [Git](https://git-scm.com/) and [GitHub](https://github.com/) to submit your assignments. This lab introduces you to those tools, as well as the instructional assistants. This is an **autograded lab exercise** worth 1% of your final grade.
 

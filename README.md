@@ -59,6 +59,11 @@ If all goes well, the clone command will execute and download a README.md file i
 5. Write a *useful* commit message above the :heavy_check_mark: Commit button, then press "Commit". It will ask if you want to stage all your files - for now you just have one that you changed (right?) so you can go ahead and say yes.
 
     > The commit message is not the same as the message you wrote in your CHANGEME. The purpose of a commit message is a "note to self" summarizing what changes you made.
+   
+    > **If you see an error message asking you to setup your git username and email**:
+    > - open Git Bash (Windows menu -> search for and open "Git Bash")
+    > - enter the command `git config --global user.name "John Doe"` but with your name instead of John Doe
+    > - enter the command `git config --global user.email johndoe@example.com` but with your mtroyal email address  
 
 6. The Commit button will change to a "Sync" button, which will first *pull* any changes from GitHub, then *push* your changes back.
 

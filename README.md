@@ -22,18 +22,10 @@ The goals of this lab are to learn how to:
 On a lab computer, or on a personal computer where you've **already installed Git and VS Code**, launch [VS Code](https://code.visualstudio.com/).
 
 ## Part 1: Clone the starter code for lab 01
-1. In a web browser, [log in](https://github.com/login) to your GitHub account. If you haven't created one yet, do so now.
-2.  Click on the [Github Classroom link](https://classroom.github.com/a/Z4BMnpjy) to link your GitHub account to your actual name and create a copy of the starter "code" for this exercise. Select your name from the roster to link your MRU username to your GitHub account. This is not set in stone, please let your instructor know if you have a different preferred name.
-    ![roster](images/01-roster.png)
-
-3. Wait for your unique GitHub URL to be generated. You may need to refresh the page, but after a few seconds you should see the following. Click on the blue link to your assignment repository.
-   ![accepted](images/01-accept-assignment.png)
-   > Side note: You may want to join the GitHub Student Developer Pack as suggested on the right hand side, but it's not required.
-
-4. Click on the "Code" button, then copy the URL from the pop-up window.
+1. At the top of this page, click on the "Code" button, then copy the URL from the pop-up window.
     ![Code button](images/01-clone-button.png)
 
-5. Back in VS Code, take the following steps to clone your repository to your local computer:
+2. Back in VS Code, take the following steps to clone your repository to your local computer:
    1.  Click on the Source Control icon in the left-hand sidebar (second from the top)
    2.  Select "Clone Repository". This will pop up a bar on the top called the "Command Pallet".
    3.  Select "Clone from GitHub".
@@ -42,7 +34,7 @@ On a lab computer, or on a personal computer where you've **already installed Gi
 
     This will prompt you to log in to GitHub to authenticate your username. You should only need to do this once for each computer you use. 
 
-6. Paste the URL that you copied in step 3 into the command pallet and hit enter. You should be prompted to select a location to save your new repo - I recommend either your `H:/1701` drive on the lab computers, or a dedicated folder for programming projects on your personal computer.
+3. Paste the URL that you copied in step 3 into the command pallet and hit enter. You should be prompted to select a location to save your new repo - I recommend either your `H:/1701` drive on the lab computers, or a dedicated folder for programming projects on your personal computer.
    > Your H drive is your personal space, so you can log in to any MACO computer and access your files! Each COMP class that you take creates its own folder.
 
 If all goes well, the clone command will execute and download a README.md file into a new folder with the same name as your assignment repository. If you are on a Mac, you will need to generate an [access token](#macos-github-token).
